@@ -140,7 +140,7 @@ def Take_query():
 
         # this will exit and terminate the program
         elif "bye" in query:
-            speak("Bye. Check Out GFG for more exciting things")
+            speak("Bye. Check Out Google for more exciting things")
             exit()
 
         elif "from wikipedia" in query:
